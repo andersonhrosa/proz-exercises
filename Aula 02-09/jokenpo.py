@@ -34,5 +34,5 @@ def jokenpo():
             print('Você perdeu!')
 
     print(f'Você ganhou {vitorias} vezes, perdeu {derrotas} vezes e empatou {empates} vezes.')
-    
+
 jokenpo()
