@@ -22,7 +22,9 @@ Use o código com cuidado.
 Explicação:
 
 `CREATE DATABASE ESCOLA;`: Cria um novo banco de dados com o nome "ESCOLA".
+
 `USE ESCOLA;`: Seleciona o banco de dados "ESCOLA" como o banco de dados ativo para as próximas operações.
+
 `CREATE TABLE ALUNO` (...): Cria uma nova tabela chamada "ALUNO" dentro do banco de dados "ESCOLA".
 
 `ID INT PRIMARY KEY`: Define um atributo chamado "ID" do tipo inteiro como a chave primária da tabela. A chave primária identifica de forma única cada registro na tabela.
