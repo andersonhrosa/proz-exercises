@@ -24,10 +24,15 @@ Explicação:
 `CREATE DATABASE ESCOLA;`: Cria um novo banco de dados com o nome "ESCOLA".
 `USE ESCOLA;`: Seleciona o banco de dados "ESCOLA" como o banco de dados ativo para as próximas operações.
 `CREATE TABLE ALUNO` (...): Cria uma nova tabela chamada "ALUNO" dentro do banco de dados "ESCOLA".
+
 `ID INT PRIMARY KEY`: Define um atributo chamado "ID" do tipo inteiro como a chave primária da tabela. A chave primária identifica de forma única cada registro na tabela.
+
 `NOME VARCHAR(100)`: Cria um atributo chamado "NOME" do tipo caractere (varchar) com um tamanho máximo de 100 caracteres.
+
 `EMAIL VARCHAR(100)`: Cria um atributo chamado "EMAIL" do tipo caractere (varchar) com um tamanho máximo de 100 caracteres.
+
 `ENDERECO VARCHAR(200)`: Cria um atributo chamado "ENDERECO" do tipo caractere (varchar) com um tamanho máximo de 200 caracteres.
+
 Observações:
 
 Tamanho dos atributos: Os tamanhos dos atributos (100 e 200 caracteres) são apenas exemplos. Você pode ajustá-los de acordo com a quantidade de dados que espera armazenar.
