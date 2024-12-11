@@ -11,7 +11,7 @@ Com este comando, criamos um banco de dados chamado "biblioteca".
 3. Conectando-se ao Banco de Dados
 ```SQL
 USE biblioteca;
-Use o código com cuidado.
+
 ```
 Este comando indica ao MySQL que vamos trabalhar com o banco de dados "biblioteca".
 
